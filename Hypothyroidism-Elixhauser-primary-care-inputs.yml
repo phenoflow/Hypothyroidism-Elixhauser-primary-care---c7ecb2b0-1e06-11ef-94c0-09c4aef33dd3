@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/postablative-hypothyroidism-elixhauser-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/hypothyroidism-elixhauser-primary-care---primary.py
+inputModule4:
+  class: File
+  path: python/congenital-hypothyroidism-elixhauser-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/hypothyroidism-elixhauser-primary-care-myxoedema---primary.py
+inputModule6:
+  class: File
+  path: python/hypothyroidism-elixhauser-primary-care-insufficiency---primary.py
+inputModule7:
+  class: File
+  path: python/hypothyroidism-elixhauser-primary-care-monitoring---primary.py
+inputModule8:
+  class: File
+  path: python/subclinical-hypothyroidism-elixhauser-primary-care---primary.py
+inputModule9:
+  class: File
+  path: python/hypothyroidism-elixhauser-primary-care-letter---primary.py
+inputModule10:
+  class: File
+  path: python/hypothyroidism-elixhauser-primary-care-acquired---primary.py
+inputModule11:
+  class: File
+  path: python/hypothyroidism---primary.py
+inputModule12:
+  class: File
+  path: python/other-hypothyroidism-elixhauser-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/hypothyroidism-elixhauser-primary-care-resulting---primary.py
+inputModule14:
+  class: File
+  path: python/hypothyroidism-elixhauser-primary-care-cretinism---primary.py
+inputModule15:
+  class: File
+  path: python/iatrogenic-hypothyroidism-elixhauser-primary-care---primary.py
+inputModule16:
+  class: File
+  path: python/hypothyroidism-elixhauser-primary-care-goitre---primary.py
+inputModule17:
+  class: File
+  path: python/hypothyroidism-elixhauser-primary-care-pendred's---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
